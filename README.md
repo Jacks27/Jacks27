@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacks27
-- 👀 I’m interested in flask django and angular
+- 👀 I’m interested in flask django laravel and angular frameworks
 - 🌱 I’m currently learning es6
 - 💞️ 
 - 📫 How to reach me simon.jackson.kariuki@gmail.com
